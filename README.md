@@ -1,7 +1,7 @@
 ##Consumer Trends in a Post Pandemic Society
 #A study on health and hygiene trend in a post-pandemic market, with focus on PPE, its use, and its sentiments within Canada
 
-The Covid pandemic has greatly impacted consumer behavior, with many people changing their purchasing habits and preferences. This study intends to examine the impact of the pandemic on consumer behavior in North America, with a particular focus in personal hygiene products. The project will show what new health trends were created during the Covid Pandemic, and how they have fared a year after the lockdowns have ended.
+The Covid pandemic has greatly impacted consumer behavior, with many people changing their purchasing habits and preferences. This study intends to examine the impact of the pandemic on consumer behavior in Canada, with a particular focus in personal hygiene products. The study will show what new health trends were created during the Covid Pandemic, and how they have fared a year after the lockdowns have ended.
 
 An analysis is performed to understand consumer trends in a post-Covid world. The analysis focuses on health and hygiene, in particular regarding the use and sentiment over PPE. The Analysis covers (3) individual perspectives;
 1.	Consumer Sentiment on PPE and Personal Hygiene based on online search trends
