@@ -25,6 +25,8 @@ This part is to highlight the use of gathering CSV data from a reliable data sou
 Using AMZ Scout retrieved price indexes ranging from 2021 to 2023 for Bestsellers-Top 10 Face Masks, a bar graph is generated to highlight the disparity between the top performing brands in Face Masks on Amazon, the largest online retailer.
 The brands are then individualized and are represented by line graphs outlining their price changes over the given timeline. Their maximum price variance and percent change is provided on the saved graph figures.
 
+The data shows a high percentage of brands that started in 2021 saw a very long period of price fluctuation (fluctuations provide on associated figures (Part_3_Mark_Prices/figures)). The fluctuations slowed down and allowed the prices to be normalized only after start to mid 2022. This stability is an indication that generalrepsonse to PPE is become casual as the public is becoming numb to covid protocols post mandatory PPE wearing rule lifts. However a larger size of data and a lookahead of the next few years is require dto conclude that. 
+
 # Conclusion
 
 •	The general public is still very reactive to PPE protocols whether its to show compliance or defiance, and we will continue to see this as the world face changes
